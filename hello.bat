@@ -1,2 +1,2 @@
 echo "Hello World"
-echo "I am in Defect branch"
+echo "I am in master branch"
